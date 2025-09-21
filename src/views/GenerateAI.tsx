@@ -60,7 +60,7 @@ export default function GenerateAI() {
                     </p>
                 )}
 
-                <div className="py-10 whitespace-pre-wrap">
+                <div className="py-10 whitespace-pre-wrap prose mx-auto">
                     {recipe}
                 </div>
             </div>
